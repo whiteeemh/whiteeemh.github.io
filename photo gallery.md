@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
-description: Photo Gallery
+description: Pursue your dream
 order: 2
 ---
 

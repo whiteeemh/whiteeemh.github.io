@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Pursue your dream
 permalink: /about/
 order: 3
 ---

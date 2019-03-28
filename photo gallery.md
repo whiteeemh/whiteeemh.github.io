@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
-description: This is just another page
+description: Photo Gallery
 order: 2
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Pursue your dream
 permalink: /
 order: 1
 ---

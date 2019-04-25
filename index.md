@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Marshal
 description: Pursue your dream
 permalink: /
 order: 1

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
-description: Pursue your dream
+description: Pictures of George C Marshall
 order: 2
 ---
 

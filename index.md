@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marshal Musem
-description: Pursue your dream
+description: Welcome!
 permalink: /
 order: 1
 ---

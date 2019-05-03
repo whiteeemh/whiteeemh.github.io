@@ -15,6 +15,6 @@ Welcome to Marshal Musesum
 
 ## Getting Start
 
-Please Explore our app developed by Mitchell White on the aspects of Geroge C Marshall
-In this app you will find information on George C Marshall and the Marshall Museum
+Please Explore our app developed by Mitchell White on the aspects of Geroge C Marshall.
+In this app you will find information on George C Marshall and the Marshall Museum.
 Thank you and have Fun Exploring the app!
